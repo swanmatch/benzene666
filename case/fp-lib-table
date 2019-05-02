@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/foostan/kbd.pretty)(options "")(descr ""))
+  (lib (name benzene)(type KiCad)(uri /home/swanmatch/keyboard/benzeneCase2)(options "")(descr ""))
+)

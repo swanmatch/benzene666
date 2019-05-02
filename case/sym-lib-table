@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name helix-cache)(type Legacy)(uri ${KIPRJMOD}/helix-cache.lib)(options "")(descr ""))
+  (lib (name benzene-rescue)(type Legacy)(uri ${KIPRJMOD}/benzene-rescue.lib)(options "")(descr ""))
+)

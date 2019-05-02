@@ -1,0 +1,16 @@
+(module CherryMX_Hole (layer F.Cu) (tedit 5CB0A7A6)
+  (fp_text reference SW1 (at 7.1 8.2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SW_PUSH (at -4.8 8.3) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -6.985 6.985) (end 6.985 6.985) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 6.985 6.985) (end 6.985 -6.985) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 6.985 -6.985) (end -6.985 -6.985) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -6.985 6.985) (end -6.985 -6.985) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+)
